@@ -1,6 +1,6 @@
 create or replace warehouse transforming;
-create or replace database raw;
 create or replace database analytics;
+create or replace database raw;
 create or replace schema raw.jaffle_shop;
 create or replace schema raw.stripe;
 
